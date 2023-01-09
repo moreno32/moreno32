@@ -11,7 +11,7 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 
 <h3 align="left">🙋‍♂️ About me:</h3>
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /><br>
 
 - **I'm a Learner | Architect | Data Science | Developer**<br/>   
 - **I love to solve complex challenges in a simple way.** <br/>
@@ -23,9 +23,7 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 
 <i>❝The future belong to those who learn more skills and combine them in creative ways.❞</i><br/>
 **Robert Greene**
-
-<br>
-  
+<br>  
 ---
 <h3 align="left">🛠️ languages and tools:</h3>
 
@@ -33,6 +31,7 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
+<br>
 ---
 
 <h3 align="left">📧 Link to my social media:</h3>  
