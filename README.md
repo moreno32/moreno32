@@ -17,12 +17,12 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 - **I love to solve complex challenges in a simple way.** <br/>
 - **I'm on track for learning GANS & AGANS models.** <br/>
 - **Ask me about anything [here](www.linkedin.com/in/dmoreno-ai)** <br/>
-- **💼 any work? do reach, [email](mailto:danielmoreno3291@gmail.com) :)
-- **💬 ask me about anything, i am happy to help;
+- 💼 **any work? do reach, [email](mailto:danielmoreno3291@gmail.com)** <br/>
+- 💬 **ask me about anything, i am happy to help.** <br/>
 
 
 <i>❝The future belong to those who learn more skills and combine them in creative ways.❞</i>
-<i>“Robert Greene”</i>
+**Robert Greene** <br/>
 
 <br>
   
