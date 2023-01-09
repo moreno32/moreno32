@@ -21,7 +21,7 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Entreprenurs Mind; Athletes Body & Artist Soul.”— James Clear   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /><br>
   
 
 <h4 align="left">languages and tools:</h4>
