@@ -3,13 +3,13 @@
 
 <div align="center">
 You have finally discovered my Github profile. <br>
-Welcome to my data science CV! Here you'll find my most innovative projects using NLP, computer vision, and more. I love tackling new challenges and finding creative solutions with data. Explore my portfolio and let's make magic happen!. <br>
+Welcome to my data science github! Here you'll find my most innovative projects using NLP, computer vision, and more. I love tackling new challenges and finding creative solutions with data. Explore my portfolio and let's make magic happen!. <br>
 
 <i>Happy Designing and Coding!</i> 😊
 
 ---
-  
-### 📫 Link to my social media
+
+<h3 align="left">📧 Link to my social media</h3>  
 <a href="https://www.linkedin.com/in/dmoreno-ai">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
