@@ -11,7 +11,7 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 
 <h3 align="left">🙋‍♂️ About me:</h3>
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - **I'm a Learner | Architect | Data Science | Developer**<br/>   
 - **I love to solve complex challenges in a simple way.** <br/>
@@ -21,8 +21,8 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 - 💬 **ask me about anything, i am happy to help.** <br/>
 
 
-<i>❝The future belong to those who learn more skills and combine them in creative ways.❞</i>
-**Robert Greene** <br/>
+<i>❝The future belong to those who learn more skills and combine them in creative ways.❞</i><br/>
+**Robert Greene**
 
 <br>
   
