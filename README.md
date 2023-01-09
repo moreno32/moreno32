@@ -1,14 +1,25 @@
 <h1 align="center">Hola 👋, I'm Daniel Moreno</h1>
-<h3 align="center">A Data Science</h3>
+<h3 align="center">A Architect & Data Science</h3>
 
 <div align="center">
 You have finally discovered my Github profile. <br>
 Welcome to my data science CV! Here you'll find my most innovative projects using NLP, computer vision, and more. I love tackling new challenges and finding creative solutions with data. Explore my portfolio and let's make magic happen!. <br>
 
-<i>Happy Coding!</i> 😊
-</div>
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmoreno-ai/)](https://www.linkedin.com/in/dmoreno-ai/)
-![GitHub followers](https://img.shields.io/github/followers/moreno32?label=Follow&style=social)
+<i>Happy Designing and Coding!</i> 😊
+
+### 📫 Link to my social media
+<a href="https://www.linkedin.com/in/dmoreno-ai">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/dmoreno-ai">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dmoreno-ai">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dmoreno-ai/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### 📫 Like to meet me?
 
