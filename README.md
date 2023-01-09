@@ -6,7 +6,8 @@ You have finally discovered my Github profile. <br>
 Welcome to my data science CV! Here you'll find my most innovative projects using NLP, computer vision, and more. I love tackling new challenges and finding creative solutions with data. Explore my portfolio and let's make magic happen!. <br>
 
 <i>Happy Designing and Coding!</i> 😊
-
+</div>
+---
 ### 📫 Link to my social media
 <a href="https://www.linkedin.com/in/dmoreno-ai">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -20,7 +21,7 @@ Welcome to my data science CV! Here you'll find my most innovative projects usin
 <a href="https://www.linkedin.com/in/dmoreno-ai/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </div>
-  
+--- 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
