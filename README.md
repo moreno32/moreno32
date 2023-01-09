@@ -11,7 +11,7 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 
 <h3 align="center">🙋‍♂️ About me:</h3>
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /><br>
 
 - **I'm a Learner | Architect | Data Science | Developer**<br/>   
 - **I love to solve complex challenges in a simple way.** <br/>
@@ -21,10 +21,11 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 - 💬 ask me about anything, i am happy to help;
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Entreprenurs Mind; Athletes Body & Artist Soul.”— James Clear   ❞</i>
+<i>❝“The future belong to those who learn more skills and combine them in creative ways.”— Robert Greene   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<h4 align="left">languages and tools:</h4>
+---
+<h3 align="left">🛠️ languages and tools:</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
