@@ -20,11 +20,12 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 - **💼 any work? do reach, [email](mailto:danielmoreno3291@gmail.com) :)
 - **💬 ask me about anything, i am happy to help;
 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“The future belong to those who learn more skills and combine them in creative ways.”❞
+
+<i>❝The future belong to those who learn more skills and combine them in creative ways.❞</i>
 <i>“Robert Greene”</i>
-<!--ENDS_HERE_QUOTE_README-->
+
 <br>
+  
 ---
 <h3 align="left">🛠️ languages and tools:</h3>
 
