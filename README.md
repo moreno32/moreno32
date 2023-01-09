@@ -5,26 +5,49 @@
 You have finally discovered my Github profile. <br>
 Welcome to my data science github! Here you'll find my most innovative projects using NLP, computer vision, and more. I love tackling new challenges and finding creative solutions with data. Explore my portfolio and let's make magic happen!. <br>
 
-<i>Happy Designing and Coding!</i> 😊
-
+<i>Happy Coding and Designing!</i> 😊
+  
 ---
 
-<h3 align="left">📧 Link to my social media</h3>  
+<h3 align="center">🙋‍♂️ About me:</h3>
+
+- **I'm a Learner | Architect | Data Science | Developer**<br/>   
+- **I love to solve complex challenges in a simple way.** <br/>
+- **I'm on track for learning GANS & AGANS models.** <br/>
+- **Ask me about anything [here](www.linkedin.com/in/dmoreno-ai)** <br/>
+- 💼 any work? do reach, [email](mailto:danielmoreno3291@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“Entreprenurs Mind; Athletes Body & Artist Soul.”— James Clear   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+
+<h4 align="left">languages and tools:</h4>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
+---
+
+<h3 align="center">📧 Link to my social media:</h3>  
 <a href="https://www.linkedin.com/in/dmoreno-ai">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="center" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/dmoreno-ai">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dmoreno-ai">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dmoreno-ai/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
+  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
 
 ---  
-  
-### 📫 Like to meet me?
+ 
+<h3 align="center">📫 Like to meet me?</h3>   
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
