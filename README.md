@@ -19,7 +19,7 @@ Welcome to my data science CV! Here you'll find my most innovative projects usin
 </a>
 <a href="https://www.linkedin.com/in/dmoreno-ai/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ### 📫 Like to meet me?
 
