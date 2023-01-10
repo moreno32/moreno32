@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Moreno</h1>
-<h3 align="center">A Architect & Data Science</h3>
+<h3 align="center">Architect & Data Science</h3>
 
 <div align="center">
 You have finally discovered my Github repositories. <br>
@@ -24,13 +24,13 @@ Welcome to my data science github! Here you'll find my most innovative projects 
 **Robert Greene**
 
 ---
-<h3 align="center">🛠️ languages and tools:</h3>
+<h3 align="center">🛠️ Languages and tools:</h3>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<br>
+
 ---
 
 <h3 align="center">📧 Link to my social media:</h3>  
