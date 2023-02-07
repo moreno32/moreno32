@@ -1,6 +1,6 @@
 # Hi 👋, I'm Daniel Moreno</h1>
 
-<img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/banner.png" width="1000" height="523.333" /><br>
+<img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/banner.jpg" width="1000" height="523.333" /><br>
 
 ## 🙋‍♂️ About me:</h3>
 ### Architect | Data Science</h3>
@@ -58,3 +58,5 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://calendly.com/dmoreno-ai/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
   
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/footer.jpg" width="1000" height="195" /><br>
