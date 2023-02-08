@@ -8,18 +8,16 @@
 <div align="left">
 
 Architect with +7 of experience and 5 of them dedicated to develop tool for automate the design process, budget and VR/AR visualization.<br>
-<br>
+***
 I believe that everything’s yet to be invented. My goal is to solve complex problems in a simple way, providing the maximum possible value to re-design together, the ways the world works.<br>
-<br>
+***
 My best assets? I am -very- disciplined, with a creative soul and an entrepreneurial mind. I know how to learn fast myself, work in high performance teams and I am a firm believer in the power of never stopping learning.
-
+***
 Currently I am focused on the creation of machine learning models for the automation of different type of tasks, especially learning to build GAN models.
-
-  
-<div align="center">
-❝✨The future belong to those who learn more skills and combine them in creative ways.✨❞<br></h3>
+***
+> ✨The future belong to those who learn more skills and combine them in creative ways.✨❞  — **Robert Greene**
 **Robert Greene**
-<div align="left">
+
 
 
 ## 🛠️ Technology Stack:</h2>
@@ -55,15 +53,15 @@ My best projects by category and algorithm:
 
 | Category  | Algorithm | Project Name | Link |
 | ------------- | ------------- | ------------- | ------------- |
-| ![Category](https://img.shields.io/badge/Automation-blue)  | Revit API  | Streamlining BIM Modeling with the Revit Extension  | [link] (https://github.com/moreno32/Streamlining-BIM-Modeling-with-the-Revit-Extension.git) |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | DCN Deep Convulutional Network  | ResNet50 Transfer Learning on the CIFAR-10 Dataset  | [link] (https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset.git)   |
-| ![Category](https://img.shields.io/badge/Data%20Analysis%20and%20prediction-blue)  | Comparison of Algorithms  | Successful Landing Prediction of SpaceX Falcon 9 Rockets  | [link] (https://github.com/moreno32/Successful-Landing-Prediction-of-SpaceX-Falcon-9-Rockets.git)   |
-| ![Category](https://img.shields.io/badge/GM%20Generative%20Models-blue)  | GAN Generative Adversarial Network  | Decoding Sign Language A Deep Learning Approach with Generative Adversarial Networks (GANs)  | [link] (https://github.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-.git)   |
-| ![Category](https://img.shields.io/badge/NLP%20Natural%20Language%20Prosecing-blue)  | FF Feed Forward | A Poet's Touch Automated Shakespearean Text Generation  | [link] (https://github.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.git)   |
-| ![Category](https://img.shields.io/badge/RS%20Recommender%20System-blue)  | Recommendations based on collaborative filters  | Collaborative Movie Recommendations Personalizing Your Cinema Experience  | [link] (https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
+| **Automation**  | Revit API  | Streamlining BIM Modeling with the Revit Extension  | [link](https://github.com/moreno32/Streamlining-BIM-Modeling-with-the-Revit-Extension.git) |
+| **CV Computer Vision**  | DCN Deep Convulutional Network  | ResNet50 Transfer Learning on the CIFAR-10 Dataset  | [link](https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset.git)   |
+| **Data Analysis and prediction**  | Comparison of Algorithms  | Successful Landing Prediction of SpaceX Falcon 9 Rockets  | [link](https://github.com/moreno32/Successful-Landing-Prediction-of-SpaceX-Falcon-9-Rockets.git)   |
+| **GM Generative Models**  | GAN Generative Adversarial Network  | Decoding Sign Language A Deep Learning Approach with Generative Adversarial Networks (GANs)  | [link](https://github.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-.git)   |
+| **NLP Natural Language Prosecing**   | FF Feed Forward | A Poet's Touch Automated Shakespearean Text Generation  | [link](https://github.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.git)   |
+| **RS Recommender System**   | Recommendations based on collaborative filters  | Collaborative Movie Recommendations Personalizing Your Cinema Experience  | [link](https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
 | ...  | ...  | ...  | ... |
 
-Visit my repositories to find many more cool projects.[link] (https://github.com/moreno32?tab=repositories)
+Visit my repositories to find many more cool projects.[link](https://github.com/moreno32?tab=repositories)
 
 ## 📉 My Project Stats:</h3>
   
