@@ -1,39 +1,35 @@
-# Hi 👋, I'm Daniel Moreno</h1>
+# Hi, I'm Daniel Moreno 👋</h1>
 
 <img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/banner.jpg" width="1000" height="523.333" /><br>
 
 ## 🙋‍♂️ About me:</h3>
-### Architect | Data Science</h3>
+### Architect | Data Science | Computational Design</h2>
 
 <div align="left">
-Marketing professional with +5 years of experience in FMGC and other industries.<br>
+
+Architect with +7 of experience and 5 of them dedicated to develop tool for automate the design process, budget and VR/AR visualization.<br>
 <br>
-I believe that everything’s yet to be invented. My goal is to identify and understand the consumer’s needs to create strategies that guarantee the satisfaction of these effectively.<br>
+I believe that everything’s yet to be invented. My goal is to solve complex problems in a simple way, providing the maximum possible value to re-design together, the ways the world works.<br>
 <br>
-My best assets? I’m -very- curious, a creative soul, but also a strategist. I learn quickly, I’m a team player and a great believer in the power of attitude.
+My best assets? I am -very- disciplined, with a creative soul and an entrepreneurial mind. I know how to learn fast myself, work in high performance teams and I am a firm believer in the power of never stopping learning.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" /><br>
+Currently I am focused on the creation of machine learning models for the automation of different type of tasks, especially learning to build GAN models.
 
-1. **I'm a Learner | Architect | Data Science | Developer.**
-2. I love to solve complex challenges in a simple way.
-3. I'm on track for learning **GANS & AGANS models**.
-4. 💬 Ask me about anything [here](https://www.linkedin.com/in/dmoreno-ai)
-5. 💼 Any work? do reach, [email](mailto:danielmoreno3291@gmail.com)
-
-<i>❝The future belong to those who learn more skills and combine them in creative ways.❞</i><br>
+  
+<div align="center">
+❝✨The future belong to those who learn more skills and combine them in creative ways.✨❞<br></h3>
 **Robert Greene**
-  
-  <a href="https://www.linkedin.com/in/dmoreno-ai/">
-  <img align="center" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  
-## 🛠️ Languages and tools:</h3>
+<div align="left">
+
+
+## 🛠️ Technology Stack:</h2>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
 
-## 📦 Projects:</h3>   
+## 📦 Projects:</h3>  
 My best projects by category and algorithm:
 
 | Category  | Algorithm | Project Name | Link |
@@ -48,8 +44,10 @@ My best projects by category and algorithm:
 
 Visit my repositories to find many more cool projects.
 
-## 📉 Statistics:</h3>
-
+## 📉 My Project Stats:</h3>
+  
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_1.png" width="1000" height="386.5" /><br>
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_2.png" width="1000" height="274.5" /><br>
 
 ## 📫 Do you want to meet me?</h3>   
 
@@ -59,4 +57,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+## 👇 Visit my Social Media</h3>   
+  <a href="https://www.linkedin.com/in/dmoreno-ai/">
+  <img align="center" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
+<br>
 <img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/footer.jpg" width="1000" height="195" /><br>
