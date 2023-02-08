@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Moreno 👋</h1>
+# 👋, I'm Daniel Moreno</h1>
 
 <img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/banner.jpg" width="1000" height="523.333" /><br>
 
@@ -41,7 +41,7 @@ Currently I am focused on the creation of machine learning models for the automa
 
 ### Computational Design Tools:
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/autocad.png"></code>
-<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/revit.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/revit.jpeg"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/3dsmax.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/sketchup.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/photoshop.png"></code>
@@ -55,15 +55,15 @@ My best projects by category and algorithm:
 
 | Category  | Algorithm | Project Name | Link |
 | ------------- | ------------- | ------------- | ------------- |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | Content Cell  | Content Cell  | Content Cell  |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | Content Cell  | Content Cell  | Content Cell  |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | Content Cell  | Content Cell  | Content Cell  |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | Content Cell  | Content Cell  | Content Cell  |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | Content Cell  | Content Cell  | Content Cell  |
-| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | Content Cell  | Content Cell  | Content Cell  |
+| ![Category](https://img.shields.io/badge/Automation-blue)  | Revit API  | Streamlining BIM Modeling with the Revit Extension  | [link] (https://github.com/moreno32/Streamlining-BIM-Modeling-with-the-Revit-Extension.git) |
+| ![Category](https://img.shields.io/badge/CV%20Computer%20Vision-blue)  | DCN Deep Convulutional Network  | ResNet50 Transfer Learning on the CIFAR-10 Dataset  | [link] (https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset.git)   |
+| ![Category](https://img.shields.io/badge/Data%20Analysis%20and%20prediction-blue)  | Comparison of Algorithms  | Successful Landing Prediction of SpaceX Falcon 9 Rockets  | [link] (https://github.com/moreno32/Successful-Landing-Prediction-of-SpaceX-Falcon-9-Rockets.git)   |
+| ![Category](https://img.shields.io/badge/GM%20Generative%20Models-blue)  | GAN Generative Adversarial Network  | Decoding Sign Language A Deep Learning Approach with Generative Adversarial Networks (GANs)  | [link] (https://github.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-.git)   |
+| ![Category](https://img.shields.io/badge/NLP%20Natural%20Language%20Prosecing-blue)  | FF Feed Forward | A Poet's Touch Automated Shakespearean Text Generation  | [link] (https://github.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.git)   |
+| ![Category](https://img.shields.io/badge/RS%20Recommender%20System-blue)  | Recommendations based on collaborative filters  | Collaborative Movie Recommendations Personalizing Your Cinema Experience  | [link] (https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
 | ...  | ...  | ...  | ... |
 
-Visit my repositories to find many more cool projects.
+Visit my repositories to find many more cool projects.[link] (https://github.com/moreno32?tab=repositories)
 
 ## 📉 My Project Stats:</h3>
   
@@ -80,6 +80,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ## 👇 Visit my Social Media</h3>   
   <a href="https://www.linkedin.com/in/dmoreno-ai/">
-  <img align="center" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><br>
+  <img align="center" alt="Abhishek's LinkedIN" width="42px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg" /><br>
 <br>
 <img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/footer.jpg" width="1000" height="195" /><br>
