@@ -24,10 +24,31 @@ Currently I am focused on the creation of machine learning models for the automa
 
 ## 🛠️ Technology Stack:</h2>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
+### Data Science Tools:
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/python.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/pandas.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/numpy.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/matplotlib.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/seaborn.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/git.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/Scikit_learn.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/tensorflow.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/scipy.jpeg"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/mysql.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/beautifulsoup.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/django.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/scrapy.png"></code>
+
+### Computational Design Tools:
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/autocad.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/revit.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/3dsmax.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/sketchup.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/photoshop.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/ilistrator.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/vray.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/unreal.png"></code>
+<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/pyrevit.png"></code>
 
 ## 📦 Projects:</h3>  
 My best projects by category and algorithm:
