@@ -8,17 +8,14 @@
 <div align="left">
 
 Architect with +7 of experience and 5 of them dedicated to develop tool for automate the design process, budget and VR/AR visualization.<br>
-***
+<br>
 I believe that everything’s yet to be invented. My goal is to solve complex problems in a simple way, providing the maximum possible value to re-design together, the ways the world works.<br>
-***
+<br>
 My best assets? I am -very- disciplined, with a creative soul and an entrepreneurial mind. I know how to learn fast myself, work in high performance teams and I am a firm believer in the power of never stopping learning.
-***
+<br>
 Currently I am focused on the creation of machine learning models for the automation of different type of tasks, especially learning to build GAN models.
-***
-> ✨The future belong to those who learn more skills and combine them in creative ways.✨❞  — **Robert Greene**
-**Robert Greene**
-
-
+<br>
+> ✨The future belong to those who learn more skills and combine them in creative ways.✨❞ — **Robert Greene**
 
 ## 🛠️ Technology Stack:</h2>
 
@@ -48,7 +45,7 @@ Currently I am focused on the creation of machine learning models for the automa
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/unreal.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/pyrevit.png"></code>
 
-## 📦 Projects:</h3>  
+## 📦 My Projects List:</h3>  
 My best projects by category and algorithm:
 
 | Category  | Algorithm | Project Name | Link |
@@ -61,9 +58,9 @@ My best projects by category and algorithm:
 | **RS Recommender System**   | Recommendations based on collaborative filters  | Collaborative Movie Recommendations Personalizing Your Cinema Experience  | [link](https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
 | ...  | ...  | ...  | ... |
 
-Visit my repositories to find many more cool projects.[link](https://github.com/moreno32?tab=repositories)
+Visit my repositories to find many more cool projects. [link](https://github.com/moreno32?tab=repositories)
 
-## 📉 My Project Stats:</h3>
+## 📈 My Project Stats:</h3>
   
 <img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_1.png" width="1000" height="386.5" /><br>
 <img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_2.png" width="1000" height="274.5" /><br>
