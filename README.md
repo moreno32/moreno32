@@ -3,17 +3,17 @@
 <img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/newbanner.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 
 ## 🙋‍♂️ About me:
-### Architect | Data Science | Python Developer | Computational Design</h2>
+### Architect | Data Science | Developer | Computational Design</h2>
 
 <div align="left">
 
-Architect with +7 of experience and 5 of them dedicated to develop tool for automate the design process, budget and VR/AR visualization.<br>
+I am an architect with over 7 years of experience, **5 of which were dedicated to developing tools for automating** differents types of process like: design, budgeting, and VR/AR visualization.<br>
 <br>
-I believe that everything’s yet to be invented. My goal is to solve complex problems in a simple way, providing the maximum possible value to re-design together, the ways the world works.<br>
+I believe that everything’s yet to be invented. My goal is to **simplify complex problems** and add maximum value to redesign the ways the world works.<br>
 <br>
-My best assets? I am -very- disciplined, with a creative soul and an entrepreneurial mind. I know how to learn fast myself, work in high performance teams and I am a firm believer in the power of never stopping learning.<br>
+**My best assets?** I am -very- **disciplined**, with a **creative soul** and an **entrepreneurial mind**. I have a strong ability to **learn quickly**, work in **high-performing teams** and I am a firm believer in the power of never stopping learning.<br>
 <br>
-Currently I am focused on the creation of machine learning models for the automation of different type of tasks, especially learning to build GAN models.
+I am focused on creating machine learning models to automate various tasks, specifically building **GAN models**.<br>
 <br>
 >                     ✨The future belong to those who learn more skills and combine them in creative ways.✨❞                   
 >                                                        -- Robert Greene --
@@ -47,7 +47,7 @@ Currently I am focused on the creation of machine learning models for the automa
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/pyrevit.png"></code>
 
 ## 📦 My Projects List:</h3>  
-My top projects by category and algorithm:
+Browse through my top works by category and algorithm to see my expertise and proficiency in action:
 
 | Category  | Algorithm | Project Name | Link |
 | ------------- | ------------- | ------------- | ------------- |
@@ -59,9 +59,9 @@ My top projects by category and algorithm:
 | **RS Recommender System**   | Recommendations based on collaborative filters  | Collaborative Movie Recommendations Personalizing Your Cinema Experience  | [link](https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
 | ...  | ...  | ...  | ... |
 
-Visit my repositories to find +50 cool projects. [**Repositories link**](https://github.com/moreno32?tab=repositories)
+Explore my repositories for a chance to see over [**50 exciting projects**](https://github.com/moreno32?tab=repositories) I have worked on. Check them out to see my skills and capabilities in action. 
 
-## 📈 My Project Stats:</h3>
+### 📈 My Project Stats:</h3>
 
 <img src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_1.png" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 <img src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_2.png" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
@@ -75,7 +75,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## 👇 Visit my Social Media
-Don't forget to visit my Linkedin profile: 
   <a href="https://www.linkedin.com/in/dmoreno-ai/">
   <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg" /><br>
 <br>
