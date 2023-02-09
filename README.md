@@ -78,5 +78,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <a href="https://www.linkedin.com/in/dmoreno-ai/">
   <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg" /><br>
 <br>
+
+ ***
   
-<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/Screenshot_3.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
+<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/footer.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
