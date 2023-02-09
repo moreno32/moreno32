@@ -63,8 +63,8 @@ Explore my repositories for a chance to see over [**50 exciting projects**](http
 
 ### 📈 My Project Stats:</h3>
 
-<img src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_1.png" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
-<img src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_2.png" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
+<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/stats.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
+
 
 ## 📫 Do you want to meet me?</h3>   
 
