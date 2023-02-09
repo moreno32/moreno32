@@ -1,6 +1,6 @@
 # 👋, I'm Daniel Moreno
 
-<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/Screenshot_5.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
+<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/Screenshot_6.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 
 ## 🙋‍♂️ About me:
 ### Architect | Data Science | Python Developer | Computational Design</h2>
