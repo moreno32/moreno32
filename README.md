@@ -1,8 +1,8 @@
 # 👋, I'm Daniel Moreno
 
-<img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/banner.jpg" width="1000" height="523.333" /><br>
+<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/Screenshot_4.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 
-# 🙋‍♂️ About me:
+## 🙋‍♂️ About me:
 ### Architect | Data Science | Python Developer | Computational Design</h2>
 
 <div align="left">
@@ -20,7 +20,7 @@ Currently I am focused on the creation of machine learning models for the automa
 
 ## 🛠️ Technology Stack:
 
-### Data Science Tools:
+#### Data Science Tools:
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/python.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/pandas.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/numpy.png"></code>
@@ -35,7 +35,7 @@ Currently I am focused on the creation of machine learning models for the automa
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/django.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/scrapy.png"></code>
 
-### Computational Design Tools:
+#### Computational Design Tools:
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/autocad.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/revit.jpeg"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/3dsmax.png"></code>
@@ -62,9 +62,9 @@ My top projects by category and algorithm:
 Visit my repositories to find +50 cool projects. [**Repositories link**](https://github.com/moreno32?tab=repositories)
 
 ## 📈 My Project Stats:</h3>
-  
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_1.png" width="1000" height="386.5" /><br>
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_2.png" width="1000" height="274.5" /><br>
+
+<img src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_1.png" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
+<img src="https://raw.githubusercontent.com/moreno32/moreno32/main/reports/figures/stats_2.png" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 
 ## 📫 Do you want to meet me?</h3>   
 
@@ -79,4 +79,5 @@ Don't forget to visit my Linkedin profile:
   <a href="https://www.linkedin.com/in/dmoreno-ai/">
   <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg" /><br>
 <br>
-<img align="center" alt="jpg" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/footer.jpg" width="1000" height="195" /><br>
+  
+<img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/Screenshot_3.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
