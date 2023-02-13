@@ -73,8 +73,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ## 👇 Visit my Social Media
-  <a href="https://www.linkedin.com/in/dmoreno-ai/">
-  <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg" /><br>
+<a href= mailto:danielmoreno3291@gmail.com> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/mail.png" >
+<a href="https://www.linkedin.com/in/dmoreno-ai/"> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/linkedin.svg">
+<a href="https://www.youtube.com/@dmoreno-ai"> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/youtube.png" /><br>
 <br>
 
  ***
