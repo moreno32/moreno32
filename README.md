@@ -32,8 +32,6 @@ I am focused on creating machine learning models to automate various tasks, spec
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/scipy.jpeg"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/mysql.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/beautifulsoup.png"></code>
-<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/django.png"></code>
-<code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/scrapy.png"></code>
 
 #### Computational Design Tools:
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/autocad.png"></code>
@@ -46,22 +44,22 @@ I am focused on creating machine learning models to automate various tasks, spec
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/unreal.png"></code>
 <code><img height="32" src="https://github.com/moreno32/moreno32/blob/main/reports/figures/icon/pyrevit.png"></code>
 
-## 📦 My Projects List:</h3>  
+## 📦 My Capstone Project Table:</h3>  
 Browse through my top works by category and algorithm to see my expertise and proficiency in action:
 
-| Category  | Algorithm | Project Name | Link |
+| Category  | Technology used | Project Name & Description | Link |
 | ------------- | ------------- | ------------- | ------------- |
-| **Automation**  | Revit API  | Streamlining BIM Modeling with the Revit Extension  | [link](https://github.com/moreno32/Streamlining-BIM-Modeling-with-the-Revit-Extension.git) |
-| **CV Computer Vision**  | DCN Deep Convulutional Network  | ResNet50 Transfer Learning on the CIFAR-10 Dataset  | [link](https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset.git)   |
-| **Data Analysis and prediction**  | Comparison of Algorithms  | Successful Landing Prediction of SpaceX Falcon 9 Rockets  | [link](https://github.com/moreno32/Successful-Landing-Prediction-of-SpaceX-Falcon-9-Rockets.git)   |
-| **GM Generative Models**  | GAN Generative Adversarial Network  | Decoding Sign Language A Deep Learning Approach with Generative Adversarial Networks (GANs)  | [link](https://github.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-.git)   |
-| **NLP Natural Language Prosecing**   | FF Feed Forward | A Poet's Touch Automated Shakespearean Text Generation  | [link](https://github.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.git)   |
-| **RS Recommender System**   | Recommendations based on collaborative filters  | Collaborative Movie Recommendations Personalizing Your Cinema Experience  | [link](https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
+| **Automation**  | Revit API  | **Streamlining BIM Modeling with the Revit Extension:** *Powerful toolkit designed to simplify and streamline the process of creating BIM models for architects and construction professionals.*  | [link](https://github.com/moreno32/Streamlining-BIM-Modeling-with-the-Revit-Extension.git) |
+| **CV Computer Vision**  | DCN Deep Convolutional Network  | **ResNet50 Transfer Learning on the CIFAR-10 Dataset:** *Demonstrate the application of transfer learning by fine-tuning the ResNet50 model on the CIFAR-10 dataset.*  | [link](https://github.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset.git)   |
+| **Data Analysis and prediction**  | K-Nearest Neighbours, Decision Trees, Logistic Regresion, Support Vector Machines | **Successful Landing Prediction of SpaceX Falcon 9 Rockets:** *Predict the success of landing for SpaceX Falcon 9 rockets, as a crucial factor that determines the cost of each launch.*  | [link](https://github.com/moreno32/Successful-Landing-Prediction-of-SpaceX-Falcon-9-Rockets.git)   |
+| **GM Generative Models**  | GAN Generative Adversarial Network  | **Decoding Sign Language A Deep Learning Approach with Generative Adversarial Networks (GANs):** *Utilize the power of deep learning and Generative Adversarial Networks (GANs) to generate images of hands doing sign language.*  | [link](https://github.com/moreno32/Decoding-Sign-Language-A-Deep-Learning-Approach-with-Generative-Adversarial-Networks--GANs-.git)   |
+| **NLP Natural Language Prosecing**   | FF Feed Forward | **A Poet's Touch Automated Shakespearean Text Generation:** *Build a deep learning model that can generate text similar to that of the great playwright, William Shakespeare.*  | [link](https://github.com/moreno32/A-Poet-s-Touch-Automated-Shakespearean-Text-Generation.git)   |
+| **RS Recommender System**   | Recommendations based on collaborative filters  | **Collaborative Movie Recommendations Personalizing Your Cinema Experience:**  *Develop a movie recommendation system based on collaborative filtering techniques.* | [link](https://github.com/moreno32/Collaborative-Movie-Recommendations-Personalizing-Your-Cinema-Experience.git)   |
 | ...  | ...  | ...  | ... |
 
 Explore my repositories for a chance to see over [**50 exciting projects**](https://github.com/moreno32?tab=repositories) I have worked on. Check them out to see my skills and capabilities in action. 
 
-### 📈 My Project Stats:</h3>
+### 📈 My Capstone Stats:</h3>
 
 <img src="https://github.com/moreno32/moreno32/blob/main/reports/figures/stats.jpg" alt="banner that says Daniel Moreno - Re-design together, the ways the world works">
 
